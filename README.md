@@ -1,2 +1,4 @@
 # hello-world
-just do it
+just do it  
+another day   
+what I have learn
